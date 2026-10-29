@@ -65,7 +65,7 @@ function App() {
         </p>
         <p>
           Questions? Reach out at{' '}
-          <a href="mailto:hello@fintechx.com">hello@fintechx.com</a> — a real
+          <a className="mail" href="mailto:mrashiwanihacker@gmail.com">mrashiwanihacker@gmail.com</a> — a real
           human replies within one business day.
         </p>
       </section>
